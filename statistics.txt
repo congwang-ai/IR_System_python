@@ -1,0 +1,6 @@
+There are total 1400 documents
+There are total 229616 words without stemming or tokenization
+There are total 21249 words after stemming and tokenization, i.e. unique words
+The longest & shortest posting length are 697 / 1
+The total posting length is 105678
+The average posting length is 4
